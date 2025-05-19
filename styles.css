@@ -1,0 +1,40 @@
+.card {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+.card-title {
+    color: #2c3e50;
+    font-weight: 600;
+}
+
+#statistics {
+    font-size: 1.1em;
+}
+
+#statistics p {
+    margin-bottom: 10px;
+}
+
+#topExpenses {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+#topExpenses li {
+    padding: 5px 0;
+    border-bottom: 1px solid #eee;
+}
+
+.btn-danger {
+    margin-left: 10px;
+}
+
+.table th {
+    background-color: #f8f9fa;
+}
+
+.form-control:focus {
+    border-color: #80bdff;
+    box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+} 
